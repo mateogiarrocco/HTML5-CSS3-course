@@ -1,4 +1,4 @@
-# Web Development course: Bienes raíces sitio web
-Static and responsive site
+# Web Development course: Real estate website
+Responsive site
 
-Link (in spanish): 
+Link (in spanish): https://realestate20.netlify.app
